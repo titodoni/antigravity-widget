@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Antigravity Usage Widget
+GenericName=AGY Quota Widget
+Comment=Monitor AGY CLI (Antigravity) quota in real time on the desktop
+Exec=bash -c '/path/to/antigravity-widget/run.sh'
+Icon=/path/to/antigravity-widget/icon.png
+Terminal=false
+Categories=Utility;Development;SystemMonitor;
+Keywords=antigravity;agy;quota;usage;ai;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
